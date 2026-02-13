@@ -1,0 +1,13 @@
+body {
+	font-size: 16px;
+	color: #fff;
+	font-family: sans-serif;
+}
+
+#header-nav {
+	border-radius: 0;
+}
+
+#nav-list {
+  text-align: right;
+}
